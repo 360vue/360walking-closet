@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-panorama_untitled_2023-12-04-18-44-46",
-      "name": "Panorama_Untitled_2023-12-04-18-44-46",
+      "id": "0-2panorama_waliking-closet_2023-12-06-22-49-53",
+      "name": "2Panorama_Waliking Closet_2023-12-06-22-49-53",
       "levels": [
         {
           "tileSize": 256,
